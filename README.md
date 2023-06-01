@@ -1,2 +1,2 @@
 # my-project
-data structure and oop by c++
+data structure by c++
